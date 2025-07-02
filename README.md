@@ -41,7 +41,7 @@ Git & GitHub – Essential tools for tracking changes, managing code versions, a
 
 This section details the process of preparing the data to ensure it is accurate and ready for analysis.
 
-### Import & Clean Up Data using pandas, matplotlib, seborn and sns
+### Import & Clean Up Data using pandas, matplotlib and seaborn
 I begin by importing the required libraries and loading the dataset, followed by initial cleaning steps to ensure data quality.
 
 
